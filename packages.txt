@@ -1,7 +1,0 @@
-plotly
-streamlit-option-menu
-plotly-express
-streamlit-aggrid
-deta
-python-dotenv
---upgrade streamlit
