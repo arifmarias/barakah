@@ -97,6 +97,6 @@ if selected == "মাছের হিসাব":
 
             items = db.fetch_all_periods()
             df = pd.DataFrame(items)     
-            st.table(df)
-            # st.session_state["fish"] = df
+            
+            
             st.success("Data saved!")
